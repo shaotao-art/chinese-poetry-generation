@@ -1,0 +1,10 @@
+.DS_Store
+wandb
+i300.ipynb
+__pycache__
+tmp.ipynb
+data
+ckp
+*.ckp
+07-13-24
+other_nbs
